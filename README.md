@@ -32,3 +32,10 @@ El productor envia un DTO con el campo `numbers`:
   "numbers": "1;2;15;8"
 }
 ```
+
+## Integrantes
+
+- Ignacio Rodrigo Machuca Gutierrez
+- Carquin Hoyos Carlos Alonso
+- Angélica Egas Quispe
+- Jhaser Alexander Campos Castañeda
